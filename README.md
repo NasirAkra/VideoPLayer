@@ -1,7 +1,7 @@
 # Video Player in Android
 
 This repository demonstrates how to implement a **Video Player** in an Android application using `VideoView` and `ExoPlayer`. The example includes basic playback controls and support for playing both local and remote video files.
-
+    
 ---
 
 ## Features
